@@ -1,5 +1,5 @@
 
-let num=7;
+let num=[7];
 let count=0;
 
 
