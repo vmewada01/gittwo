@@ -18,3 +18,10 @@ console.log("it is a prime no.")}
 else{
 console.log("it is not a prime no.")
 }
+
+let variable =[ 'vishal', 'safal', 'jatin', 'naresh', 'vindo']
+
+for(let i=0; i<variable.length; i++){
+    console.log(variable[i])
+    
+}
