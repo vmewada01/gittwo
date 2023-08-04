@@ -7,3 +7,8 @@ function checkletter(str){
     }
  }
 }
+
+let str2= "naresh "
+for(let i=0; i<str2.length; i++){
+    console.log(str2[i])
+}
