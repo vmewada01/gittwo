@@ -12,3 +12,7 @@ if(count>2){
   return   console.log("not a prime no") 
 }
  return console.log("yes i t is prime")
+
+
+
+console.log("hello from vishal ")
